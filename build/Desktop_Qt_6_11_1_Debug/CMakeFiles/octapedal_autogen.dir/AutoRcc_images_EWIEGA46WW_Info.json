@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/octapedal_autogen",
+	"CMAKE_BINARY_DIR" : "/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/lusa/octapedal",
+	"CMAKE_SOURCE_DIR" : "/home/lusa/octapedal",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/octapedal_autogen/include",
+	"INPUTS" : [ "/home/lusa/octapedal/dot.png", "/home/lusa/octapedal/black_knob.png" ],
+	"LOCK_FILE" : "/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/CMakeFiles/octapedal_autogen.dir/AutoRcc_images_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "images" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_images.cpp",
+	"RCC_EXECUTABLE" : "/home/lusa/Qt/6.11.1/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/CMakeFiles/octapedal_autogen.dir/AutoRcc_images_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/lusa/octapedal/images.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

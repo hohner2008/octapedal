@@ -1,0 +1,11 @@
+set(lupdate_project_file "/home/lusa/octapedal/CMakeLists.txt")
+set(lupdate_translations "/home/lusa/octapedal/octapedal_en_US.ts")
+set(lupdate_include_paths "")
+set(lupdate_sources "")
+set(lupdate_subproject_count 1)
+
+set(lupdate_subproject1_source_dir "/home/lusa/octapedal")
+set(lupdate_subproject1_include_paths "/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/octapedal_autogen/include;/home/lusa/Qt/6.11.1/gcc_64/include/QtCore;/home/lusa/Qt/6.11.1/gcc_64/include;/home/lusa/Qt/6.11.1/gcc_64/mkspecs/linux-g++;/home/lusa/Qt/6.11.1/gcc_64/include;/home/lusa/Qt/6.11.1/gcc_64/include/QtWidgets;/home/lusa/Qt/6.11.1/gcc_64/include;/home/lusa/Qt/6.11.1/gcc_64/include/QtGui;/home/lusa/Qt/6.11.1/gcc_64/include;/usr/include;/usr/include;/usr/include;/home/lusa/Qt/6.11.1/gcc_64/include/QtMultimedia;/home/lusa/Qt/6.11.1/gcc_64/include;/home/lusa/Qt/6.11.1/gcc_64/include/QtNetwork;/home/lusa/Qt/6.11.1/gcc_64/include")
+set(lupdate_subproject1_sources "/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/octapedal_autogen/mocs_compilation.cpp;main.cpp;mainwindow.cpp;mainwindow.h;mainwindow.ui;customdial.h;customdial.cpp;ui/controls/RotaryKnob.h;ui/controls/RotaryKnob.cpp;ui/controls/Manager.h;ui/controls/Manager.cpp;images.qrc;cmake/modules/FindSndfile.cmake;audio.h;audio.cpp;audiorunnable.h;audiorunnable.cpp;/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/.qt/rcc/octapedal_translations.qrc;/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/octapedal_en_US.qm;/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/.qt/rcc/qrc_octapedal_translations.cpp;/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/octapedal_autogen/include/ui_mainwindow.h;/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/octapedal_autogen/timestamp;/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/octapedal_autogen/EWIEGA46WW/qrc_images.cpp;/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/octapedal_en_US.qm.rule;/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/.qt/rcc/qrc_octapedal_translations.cpp.rule;/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/octapedal_autogen/timestamp.rule;/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/octapedal_autogen/EWIEGA46WW/qrc_images.cpp.rule")
+set(lupdate_subproject1_excluded "")
+set(lupdate_subproject1_autogen_dir "/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/octapedal_autogen")

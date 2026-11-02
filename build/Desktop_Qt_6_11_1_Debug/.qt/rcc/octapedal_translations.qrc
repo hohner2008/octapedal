@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/i18n">
+    <file alias="octapedal_en_US.qm">/home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/octapedal_en_US.qm</file>
+  </qresource>
+</RCC>
+

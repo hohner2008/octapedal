@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_octapedal_FILE /home/lusa/octapedal/build/Desktop_Qt_6_11_1_Debug/octapedal)
+set(__QT_DEPLOY_TARGET_octapedal_TYPE EXECUTABLE)

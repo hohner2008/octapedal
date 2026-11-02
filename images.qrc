@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>black_knob.png</file>
+        <file>dot.png</file>
+    </qresource>
+</RCC>

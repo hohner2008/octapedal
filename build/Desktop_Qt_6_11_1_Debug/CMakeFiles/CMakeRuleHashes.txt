@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+69ddcfbc7bd187b66fd2a0e8c5f9f6e6 .qt/rcc/qrc_octapedal_translations.cpp
+64b8a1581131e877900b578fe5ec5685 CMakeFiles/octapedal_autogen
+64b8a1581131e877900b578fe5ec5685 CMakeFiles/octapedal_lrelease
+ec9844eee203926a713b82e56cc53e8a CMakeFiles/octapedal_lupdate
+050365be2e8936e4e3c8160d2194c983 octapedal_autogen/EWIEGA46WW/qrc_images.cpp
+a8a5de331e210b6605c0931e0ca0c669 octapedal_autogen/timestamp
+d9c9378f096c991497252d371658fbba octapedal_en_US.qm
